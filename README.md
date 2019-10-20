@@ -2,8 +2,14 @@
 
 ebook3000 網站有太多廣告，所以寫了資料一個工具直接抓取下載網址
 
-## 執行方式
+## 編譯
 
+```sh
+npm i
+npx tsc
+```
+
+## 執行方式
 
 ```sh
 node . > out.md
@@ -16,6 +22,8 @@ node . > out.md
 點選預覽
 
 ![img](README_01.png)
+
+![img](README_02.png)
 
 ---
 http://ebook3000.siteunblock.xyz/
