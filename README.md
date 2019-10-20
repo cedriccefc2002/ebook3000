@@ -11,6 +11,12 @@ node . > out.md
 
 產生 out.md 圖片與下載網址
 
+使用VS CODE 開啟 out.md
+
+點選預覽
+
+![img](README_01.png)
+
 ---
 http://ebook3000.siteunblock.xyz/
 http://longfiles.com/vuyg2myv6it3/Cheri_-_Volume_280_-_August_2019.pdf.html
